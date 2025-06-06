@@ -6,7 +6,7 @@
 %define		module	pycups
 Summary:	Set of Python 2 bindings for the CUPS API
 Summary(pl.UTF-8):	Zbiór wiązań Pythona 2 do API CUPS-a
-Name:		python-%{module}
+Name:		python3-%{module}
 Version:	1.9.73
 Release:	12
 License:	GPL v2+
